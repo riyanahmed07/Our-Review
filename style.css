@@ -1,0 +1,35 @@
+.sir{
+
+align-items: center;
+justify-content: center;
+text-align: center;
+
+}
+.btn{
+    font-size: 23px;
+    border-radius: 15px;
+    background-color: aqua;
+    color: black;
+    border-color: cornflowerblue;
+    margin-top: 10px;
+}
+.back{
+    font-size: 25px;
+    border: none;
+    border: 3PX SOLID rgb(6, 6, 26);
+    border-radius: 15PX;
+    background-color: grey;
+    margin-top: 10px;
+    
+}
+:hover.back{
+    background-color: cornflowerblue;
+    
+}
+p{
+    font-size: 17px;
+    font-weight: bold;
+}
+body{
+    background-color: cadetblue;
+}
